@@ -1,5 +1,7 @@
 # GeoLife Dashboard
-A user interface for running DBSCAN on fine-grained mobility on the GeoLife dataset. Theoretically can be applied to other datasets, but have not tested.
+A user interface for running DBSCAN on fine-grained mobility on the GeoLife dataset. Theoretically can be applied to other datasets, but have not tested. See below for some images/gifs of usage.
+
+![Dashboard Usage](https://github.com/Yozpoz64/geolife-dashboard/blob/20680cf257692c3ce2574041c173719cdce3511b/examples/dashboardusage.gif)
 
 ![Dashboard Usage - Example of User 0](https://github.com/Yozpoz64/geolife-dashboard/blob/debd337b4d5897591dd75ebda2483a964bb8404c/examples/db_user0.PNG)
 
